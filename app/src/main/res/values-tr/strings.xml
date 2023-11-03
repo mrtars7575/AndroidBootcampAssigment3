@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title">Haberler</string>
+    <string name="subtitle">Aboneliklerinizden birini seçin ve nerede olursanız olun gelişmelerden haberdar olun</string>
+    <string name="buttonName">Abone ol</string>
+    
+</resources>
